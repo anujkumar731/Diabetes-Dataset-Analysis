@@ -39,3 +39,13 @@ Chandigarh University
 GitHub: https://github.com/anujkumar731
 
 **Note:** This project is for educational data analysis and is not a medical diagnostic tool.
+## Project Visualizations
+
+### Diabetes Outcome Distribution
+![Diabetes Outcome Distribution](SS)
+
+### Correlation Heatmap
+![Correlation Heatmap](ss1)
+
+### Feature Comparison
+![Feature Comparison](ss2)
